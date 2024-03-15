@@ -55,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.google.cloudcode.ide_session_index": "20240311_0004",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/shivajimandapati/Desktop/parkingLot/fileList/src/models/enums",
@@ -127,7 +127,7 @@
       <workItem from="1710129794446" duration="742000" />
       <workItem from="1710134538218" duration="3718000" />
       <workItem from="1710163776594" duration="240000" />
-      <workItem from="1710164117966" duration="30774000" />
+      <workItem from="1710164117966" duration="31084000" />
     </task>
     <servers />
   </component>
